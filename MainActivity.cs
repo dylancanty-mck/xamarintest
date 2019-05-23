@@ -15,5 +15,7 @@ namespace XamarinTut
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
         }
+
+        protected override void
     }
 }
